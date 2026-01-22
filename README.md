@@ -4,3 +4,4 @@ This project classifies brain tumors using a custom CNN architecture.
 ## Tech Stack.
 * Python
 * PyTorch.
+## Results
