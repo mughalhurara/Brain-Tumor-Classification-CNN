@@ -11,3 +11,4 @@ The model uses 3 Convolutional blocks and 2 Dense layers.
 ## Credits
 Instructor: Talha Nadeem.
 Student:Rubeena Kausar
+Project completed
