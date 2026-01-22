@@ -10,3 +10,4 @@ Final F1 Score:0.7971
 The model uses 3 Convolutional blocks and 2 Dense layers.
 ## Credits
 Instructor: Talha Nadeem.
+Student:Rubeena Kausar
