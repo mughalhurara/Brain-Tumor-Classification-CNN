@@ -6,3 +6,4 @@ This project classifies brain tumors using a custom CNN architecture.
 * PyTorch.
 ## Results
 Final F1 Score:0.7971
+## Methodology
